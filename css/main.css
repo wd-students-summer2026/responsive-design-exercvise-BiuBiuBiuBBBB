@@ -1,0 +1,46 @@
+p {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+}
+
+h1,
+h2,
+h3 {
+    font-family: Georgia, serif;
+    font-size: 28px;
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: orange;
+}
+
+section {
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+}
+
+#my_background {
+    background-color: lightblue;
+}
+
+#my_interests {
+    background-color: lightyellow;
+}
+
+section h2 {
+    color: darkgreen;
+    text-decoration: underline;
+}

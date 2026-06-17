@@ -1,0 +1,29 @@
+.container {
+    width: 100%;
+    margin: 0 auto;
+}
+
+header,
+footer {
+    width: 100%;
+    text-align: center;
+}
+
+.column1,
+.column2 {
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.column3 {
+    width: 100%;
+    clear: both;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+footer {
+    clear: both;
+}
