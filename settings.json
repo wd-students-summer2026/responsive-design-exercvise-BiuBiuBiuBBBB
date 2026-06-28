@@ -1,5 +1,6 @@
 {
   "name": "Bill Zhao",
   "nyu_net_id": "dz2434",
-  "site_url": "http://i6.cims.nyu.edu/~dz2434"
+  "site_url": "http://i6.cims.nyu.edu/~dz2434",
+  "responsive_column_selectors": [".column1", ".column2", ".column3"]
 }
